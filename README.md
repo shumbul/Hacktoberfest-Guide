@@ -1,8 +1,6 @@
 # Hacktoberfest2022 ✌️
 This repository is made with the purpose of guiding people about Hacktoberfest
 
-![image](https://user-images.githubusercontent.com/50404539/193565430-5ef7dd5e-1baf-4656-86ec-13c29eaa6cc4.png)
-
 </br>
 
 # What is Hacktoberfest? 🤔
@@ -71,3 +69,5 @@ git push origin branch-name
 [Hacktoberfest 2022 Swag List](https://hacktoberfestswaglist.com/list/#d)
 
 Happy Coding! 😎
+
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/shumbul/)
