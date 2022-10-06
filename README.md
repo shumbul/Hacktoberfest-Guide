@@ -12,7 +12,7 @@ You can read the official details and rules at the Hacktoberfest website. Check 
 
 </br>
 
-# 🌱 Contributing to hacktoberfest 2022
+# 🌱 Contributing to Hacktoberfest 2022
 
 </br>
 
@@ -21,14 +21,14 @@ You can read the official details and rules at the Hacktoberfest website. Check 
 </br>
 
 * Login using github (or gitlab) @[Hacktoberfest](https://hacktoberfest.com/)
-* Create atleast four valid pull requests (PRs) between 1st - 31st October
+* Create at least four valid pull requests (PRs) between 1st - 31st October
 * You can check the progress of pull/merge requests here(https://hacktoberfest.com/profile/)
 
 ## How to Contribute to a repo ❓
 
 </br>
 
-**Prerequisite:** Install and setup git in your local machine
+**Prerequisite:** Install and setup git on your local machine
 
 </br>
 
@@ -41,7 +41,7 @@ git clone https://github.com/your-username/Hacktoberfest2022.git
 
 * change the present working directory
 ```markdown
-cd HacktoberFest2021
+cd Hacktoberfest2022
 ```
 </br>
 
