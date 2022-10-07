@@ -1,8 +1,6 @@
 # Hacktoberfest2022 ✌️
 This repository is made with the purpose of guiding people about Hacktoberfest
 
-** NOTE: This is just a guide and not a Hacktoberfest accepted repository **
-
 </br>
 
 # What is Hacktoberfest? 🤔
@@ -28,6 +26,8 @@ You can read the official details and rules at the Hacktoberfest website. Check 
 * Search for a Hacktoberfest accepted repository on Github, pick up any of those based on your interest and skills
 
 ## How to Contribute to a repo ❓
+
+** NOTE: This is just a guide and not a Hacktoberfest accepted repository. Although, feel free to practice the below steps on this repository. **
 
 </br>
 
