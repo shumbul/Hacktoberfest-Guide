@@ -1,6 +1,8 @@
 # Hacktoberfest2022 ✌️
 This repository is made with the purpose of guiding people about Hacktoberfest
 
+** NOTE: This is just a guide and not a Hacktoberfest accepted repository **
+
 </br>
 
 # What is Hacktoberfest? 🤔
@@ -22,7 +24,8 @@ You can read the official details and rules at the Hacktoberfest website. Check 
 
 * Login using github (or gitlab) @[Hacktoberfest](https://hacktoberfest.com/)
 * Create at least four valid pull requests (PRs) between 1st - 31st October
-* You can check the progress of pull/merge requests here(https://hacktoberfest.com/profile/)
+* You can check the progress of pull/merge requests [here](https://hacktoberfest.com/profile/)
+* Search for a Hacktoberfest accepted repository on Github, pick up any of those based on your interest and skills
 
 ## How to Contribute to a repo ❓
 
